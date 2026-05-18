@@ -1,6 +1,9 @@
 # Physics-Informed-Neural-Network-for-Single-Particle-Model-SOC-and-SOH-Prediction
 A Physics‑Informed Neural Network (PINN) is a neural network trained not only on data but also on physical laws, typically expressed as differential equations.
 
+## flowchart:
+![pinn](https://github.com/NowshadRuhan/Physics-Informed-Neural-Network-for-Single-Particle-Model-SOC-and-SOH-Prediction/blob/main/pinn.svg?raw=true) 
+
 **_Instead of learning purely from data, the model is constrained by:_**
 
 - Electrochemical battery physics (e.g., diffusion, degradation)
