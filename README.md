@@ -217,3 +217,5 @@ This is project demonstrated in recent works' PINNs outperform data‑driven mod
 
 3. Stability
    - PINNs avoid unphysical predictions (e.g., SOC > 100%).
+
+**Note: Remember this version is not final version that used in production/paper**
